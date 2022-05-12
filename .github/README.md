@@ -1,5 +1,5 @@
 # Exiled.Loader
-A Plugin that Loads Exiled using SLAPI (SCP: Secret Laboratory Official API).
+A Plugin that loads [Exiled](https://github.com/Exiled-Team/EXILED) using SLAPI (SCP: Secret Laboratory Official API) without needing the patched assembly.
 
 ### How to use
 
